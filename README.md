@@ -1,8 +1,6 @@
 # medium-k8s-nfs
 
-
-```sh
-
+```bash
 
 ### Apply all manifests
 kubectl apply -f .
